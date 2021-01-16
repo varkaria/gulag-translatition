@@ -17,7 +17,7 @@ Discord server at the top of the README, we now have a bit of a community!
 - Make pull request from your repo to this repo
 - Let's go to translate it in templates.pot
 - When finished your translate just save it
-- ```pybabel init -i templates.pot -d translations -l (what language you translate it like en, th, es)``` in your repo dir
+- ```pybabel init -i templates.pot -d .\ -l (what language you translate it like en, th, es)``` in your repo dir
 - Push your work in your branch
 
 And that's it!!
