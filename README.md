@@ -4,10 +4,10 @@
 
 ## Requirements
 - Python 3.9 with flask-babel
-- some translation knowlage
+- Some translation knowlage
 ## How to translation?
 
-it's really simple just you have some translate skill to help it
+It's really simple just you have some translate skill to help it
 
 If you have any difficulties to pull it, feel free to join the 
 Discord server at the top of the README, we now have a bit of a community!
@@ -20,4 +20,4 @@ Discord server at the top of the README, we now have a bit of a community!
 - ```pybabel init -i templates.pot -d translations -l (what language you translate it like en, th, es)``` in your repo dir
 - Push your work in your branch
 
-and that's it!!
+And that's it!!
