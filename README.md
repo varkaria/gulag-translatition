@@ -13,11 +13,11 @@ If you have any difficulties to pull it, feel free to join the
 Discord server at the top of the README, we now have a bit of a community!
 
 - Fork this project 
-- add branch language you want to translate and clone it!!
-- make pull request from your repo to this repo
-- let's go to translate it in templates.pot
-- when finished your translate just save it
+- Add branch language you want to translate and clone it!!
+- Make pull request from your repo to this repo
+- Let's go to translate it in templates.pot
+- When finished your translate just save it
 - ```pybabel init -i templates.pot -d translations -l (what language you translate it like en, th, es)``` in your repo dir
-- push your work in your branch
+- Push your work in your branch
 
 and that's it!!
