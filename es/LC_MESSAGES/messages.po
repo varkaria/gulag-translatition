@@ -32,7 +32,7 @@ msgstr "¿Cómo arreglar eso?"
 
 #: templates/404.html:17
 msgid "- Checking some url link thats correct?"
-msgstr ""
+msgstr "¿Verificando algún enlace URL que sea correcto?"
 
 #: templates/404.html:18
 msgid "- Checking some anouncement is that maintenance"
