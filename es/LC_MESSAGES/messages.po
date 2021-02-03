@@ -1,0 +1,238 @@
+# Spanish translations for PROJECT.
+# Copyright (C) 2021 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-01-17 03:06+0700\n"
+"PO-Revision-Date: 2021-02-03 07:20-0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: templates/404.html:9
+msgid "oh no thats 404"
+msgstr "oh no es un 404"
+
+#: templates/404.html:11
+msgid "Page not found"
+msgstr "Pagína no encontrada"
+
+#: templates/404.html:15
+msgid "How to fix that?"
+msgstr "¿Cómo arreglar eso?"
+
+#: templates/404.html:17
+msgid "- Checking some url link thats correct?"
+msgstr ""
+
+#: templates/404.html:18
+msgid "- Checking some anouncement is that maintenance"
+msgstr "comprobar algún anuncio es que mantenimiento"
+
+#: templates/404.html:19
+msgid "- If you check it doesn't have these problem."
+msgstr "Si marca que no tiene esos problemas"
+
+#: templates/404.html:20
+msgid "This page it isn't implemented you can suggest in github"
+msgstr "Esta pagina no está implementada, puedes sugerirla en github"
+
+#: templates/base.html:36
+msgid "Home"
+msgstr "Inicio"
+
+#: templates/base.html:40
+msgid "Leaderboards"
+msgstr "Tabla de clasificación"
+
+#: templates/base.html:45
+msgid "Information"
+msgstr "Información"
+
+#: templates/base.html:49 templates/rules.html:9
+msgid "Documentation"
+msgstr "Documentación"
+
+#: templates/base.html:52
+msgid "Rules"
+msgstr "Reglas"
+
+#: templates/base.html:55
+msgid "Discord"
+msgstr "Discord"
+
+#: templates/base.html:59
+msgid "Report an issue"
+msgstr "Reporta un problema"
+
+#: templates/base.html:69 templates/home.html:20
+msgid "Sign up"
+msgstr "Registrarse"
+
+#: templates/base.html:72 templates/home.html:23
+msgid "Log in"
+msgstr "Iniciar sesión"
+
+#: templates/home.html:14
+msgid "Welcome to "
+msgstr "Bienvenido a "
+
+#: templates/home.html:15
+msgid "We are a osu! private server mainly based around the relax mod -"
+msgstr "Somos un servidor de osu! privado basado principalmente en el mod relax"
+
+#: templates/home.html:16
+msgid "featuring score submission, leaderboards & rankings, custom pp,"
+msgstr ""
+"Con presentación de puntajes, tablas de clasificación y rankings y pp "
+"personalizado"
+
+#: templates/home.html:17
+msgid "and much more for both relax and vanilla osu!"
+msgstr "y mucho más para relax y vainilla"
+
+#: templates/leaderboard.html:31
+msgid "Leaderboard"
+msgstr "Tabla de clasificación"
+
+#: templates/login.html:21 templates/register.html:21
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: templates/login.html:30 templates/register.html:39
+msgid "Password"
+msgstr "Contraseña"
+
+#: templates/login.html:40
+msgid "not have an account?"
+msgstr "¿No tienes una cuenta?"
+
+#: templates/login.html:42
+msgid "Click here to register it!!"
+msgstr "Haz clic para registrarte"
+
+#: templates/login.html:48
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: templates/login.html:51
+msgid "Forgot your acc?"
+msgstr "¿Perdiste tu cuenta?"
+
+#: templates/register.html:10
+msgid "Registration"
+msgstr "Registro"
+
+#: templates/register.html:30
+msgid "Email"
+msgstr "Email"
+
+#: templates/register.html:49
+msgid "have an account?"
+msgstr "Tienes una cuenta?"
+
+#: templates/register.html:49
+msgid "Click here to login it!!"
+msgstr "Haz clic para iniciar sesión"
+
+#: templates/register.html:53
+msgid "Register"
+msgstr "Registro"
+
+#: templates/rules.html:11
+msgid "Server and Site Rules"
+msgstr "Reglas del servidor y del sitio"
+
+#: templates/rules.html:15
+msgid "Server Rules"
+msgstr "Reglas del servidor"
+
+#: templates/rules.html:25
+msgid "Chat Rules"
+msgstr "Reglas del Chat"
+
+#: templates/verify.html:10
+msgid "How to verify your account"
+msgstr "¿como verificar tu cuenta?"
+
+#: templates/verify.html:11
+msgid "What do you mean? This must be easy right?"
+msgstr "¿Qué quieres decir? Esto debe ser facil ¿verdad?"
+
+#: templates/verify.html:22
+msgid "Verification"
+msgstr "Verificación"
+
+#: templates/verify.html:23
+msgid "Follow these three simple steps to get started playing "
+msgstr "Sigue estos tres simples pasos para empezar a jugar"
+
+#: templates/verify.html:35
+msgid "Download the switcher"
+msgstr "Descarga el conmutador"
+
+#: templates/verify.html:36
+msgid "click here to download our switcher!"
+msgstr "Clic aqui para descargar nuestro conmutador"
+
+#: templates/verify.html:47
+msgid "Switch to"
+msgstr "Cambiar a"
+
+#: templates/verify.html:48
+msgid "Click “Install Certificate”"
+msgstr "Clic “Instalar Certificado”"
+
+#: templates/verify.html:48
+msgid "Click ”Switch to "
+msgstr "clic ”cambiar a "
+
+#: templates/verify.html:48
+msgid "Open osu!"
+msgstr "Abre osu!"
+
+#: templates/verify.html:59
+msgid "Login to your account"
+msgstr "Inicia sesión en tu cuenta"
+
+#: templates/verify.html:60
+msgid "Login to your"
+msgstr "Inicia sesion en tu"
+
+#: templates/verify.html:68
+msgid "Oh crap! I'm stuck please help me!"
+msgstr "Oh mierda! estoy atascado ayudame!"
+
+#: templates/verify.html:69
+msgid ""
+"Need help? We got you. Come join our discord community and one of our "
+"members can help you out!"
+msgstr ""
+"¿Necesitas ayuda? Te tenemos. Ven y únete a nuestra comunidad de Discord "
+"y uno de nuestros miembros te puede ayudar"
+
+#: templates/verify.html:77
+msgid "Click here to join our discord!"
+msgstr "Clic aqui para unirte a nuestro Discord"
+
+#: templates/verify.html:85
+msgid "Waiting for verification!"
+msgstr "Esperando la Verificación"
+
+#: templates/verify.html:86
+msgid ""
+"Follow the simple instructions above and once you're done reload this "
+"page!"
+msgstr ""
+"Sigue las sencillas instrucciones anteriores, y una vez que hayas "
+"terminado, vuelve a cargar Esta \"página"
+
